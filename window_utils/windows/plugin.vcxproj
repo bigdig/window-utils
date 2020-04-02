@@ -16,7 +16,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>9E78F97E-E681-4753-89FC-C9691E359AD4</ProjectGuid>
+    <ProjectGuid>{E6877206-6990-47C9-B7A3-BCDA2A6C5FD6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>window_utils</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>

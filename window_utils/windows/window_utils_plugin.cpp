@@ -1,3 +1,4 @@
+#pragma warning(disable:4189 4244)
 #include "window_utils_plugin.h"
 
 // This must be included before many other Windows headers.
